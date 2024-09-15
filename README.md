@@ -1,17 +1,19 @@
 # User & Purchase Service
 
+## Setup
+
 This project manages users, purchases, and handles external requests like analytics and astrological reports.
 
-## Start Docker containers
+### Start Docker containers
 docker-compose up -d 
 
-## Install npm dependencies
+### Install npm dependencies
 npm install
 
-## Run database migrations
+### Run database migrations
 npm run migration:run
 
-## Start the application
+### Start the application
 npm run start 
 
 ## Features
