@@ -6,9 +6,9 @@ This project manages users, purchases, and handles external requests like analyt
 
 ### Start Docker containers
 
-    ```sh
-docker-compose up -d 
-    ```
+  ```sh
+  docker-compose up -d 
+  ```
 
 ### Install npm dependencies
 npm install
