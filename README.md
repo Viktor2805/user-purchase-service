@@ -5,7 +5,10 @@
 This project manages users, purchases, and handles external requests like analytics and astrological reports.
 
 ### Start Docker containers
+
+    ```sh
 docker-compose up -d 
+    ```
 
 ### Install npm dependencies
 npm install
