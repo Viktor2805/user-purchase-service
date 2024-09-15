@@ -1,0 +1,32 @@
+# Ideas
+.vscode
+.idea
+.history
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.pnpm-debug.log*
+
+# Yarn temporary files
+.yarn-integrity
+.yarn/cache
+.yarn/unplugged
+.yarn/build-state.yml
+.yarn/install-state.gz
+
+# Dotenv environment variables file
+.env
+.env.*
+!.env.example
+!.env.test
+
+# Imports
+node_modules
+
+# Generated files
+dist
