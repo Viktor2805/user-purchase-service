@@ -50,5 +50,5 @@ npm run start
 - **Input**:
   - `name` (string)
   - `price` (number)
-- **Description**: Stores the purchase, sends analytics event, and schedules a report.
+- **Description**: Adds a offer to the database.
 
