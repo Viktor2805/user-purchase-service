@@ -11,13 +11,22 @@ This project manages users, purchases, and handles external requests like analyt
   ```
 
 ### Install npm dependencies
-npm install
+
+  ```sh
+  npm install
+  ```
 
 ### Run database migrations
+
+  ```sh
 npm run migration:run
+  ```
 
 ### Start the application
+
+  ```sh
 npm run start 
+  ```
 
 ## Features
 1. **Create User**: Stores user info in PostgreSQL.
