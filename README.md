@@ -47,7 +47,7 @@ npm run start
 - **Route**: `POST /users`
 - **Input**:
   - `email` (string)
-  - `marketingData` (boolean, optional)
+  - `marketingData` (object like { test: 1 })
 - **Description**: Adds a user to the database.
 
 ### 2. **Create Purchase**
